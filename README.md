@@ -6,7 +6,12 @@
 <details>
 <summary>قرآن وتجوید</summary>
 <details><summary>ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ ٦صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ ٧</summary></details>
-<details><summary>كَيۡفَتَكۡفُرُونَبِٱللَّهِوَكُنتُمۡأَمۡوَٰتٗافَأَحۡيَٰكُمۡۖثُمَّيُمِيتُكُمۡثُمَّيُحۡيِيكُمۡثُمَّإِلَيۡهِتُرۡجَعُونَ</summary></details>
+<details><summary>کَیْفَ تَکْفُرُونَ بِاللّهِ وَ کُنْتُمْ أَمْواتاً فَأَحْیاکُمْ ثُمَّ یُمیتُکُمْ ثُمَّ یُحْییکُمْ ثُمَّ إِلَیْهِ تُرْجَعُونَ</summary></details>
+<details><summary>وَ اتَّقُوْا یَوْمًا لَّا تَجْزِیْ نَفْسٌ عَنْ نَّفْسٍ شَیْــٴًـا وَّ لَا یُقْبَلُ مِنْهَا عَدْلٌ وَّ لَا تَنْفَعُهَا شَفَاعَةٌ وَّ لَا هُمْ یُنْصَرُوْنَ(123)</summary></details>
+<details><summary>قالُوا ادْعُ لَنا رَبَّکَ یُبَیِّنْ لَنا ما هِیَ إِنَّ الْبَقَرَ تَشابَهَ عَلَیْنا وَ إِنّا إِنْ شاءَ اللّهُ لَمُهْتَدُونَ</summary></details>
+<details><summary></summary></details>
+<details><summary></summary></details>
+<details><summary></summary></details>
 <details><summary></summary></details>
 <details><summary></summary></details>
 <details><summary></summary></details>
